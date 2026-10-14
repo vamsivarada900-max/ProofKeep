@@ -84,14 +84,14 @@ Note: Automated email reminders, production deployment, and comprehensive end-to
 
 📸 SCREENSHOTS
 
-📊 Dashboard 
+### 📊 Dashboard
+![ProofKeep Dashboard](screenshots/DashBoard.png)
 
+### 📦 Add Device
+![Add Device](screenshots/AddDevice.png)
 
-📦 Product Management
-
-
-🧾 Receipt Management
-
+### 🔐 Login Page
+![Login Page](screenshots/LoginPage.png)
 
 
 
