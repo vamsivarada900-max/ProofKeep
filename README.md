@@ -80,6 +80,22 @@ ProofKeep brings product records, digital receipts, and warranty information tog
 
 Note: Automated email reminders, production deployment, and comprehensive end-to-end testing are planned improvements until they have been implemented and verified.
 
+
+
+📸 SCREENSHOTS
+
+📊 Dashboard 
+
+
+📦 Product Management
+
+
+🧾 Receipt Management
+
+
+
+
+
 ## 🧰 TECHNOLOGY STACK
 
 | Layer | Technology | Purpose |
